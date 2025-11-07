@@ -92,15 +92,6 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
   <br>
   <br>
   <br>
-  
-<div align="right">
-  <p id="random-quote" style="font-size: 18px; font-weight: bold; color: #00FF00; font-family: 'Courier New', monospace; margin-bottom: 20px;">
-    🧠 Intelligence is the ability to adapt to change. - Stephen Hawking
-  </p>
-</div>
-
-<br>
-<br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumb-meh&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
 </div>
