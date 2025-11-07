@@ -1,92 +1,83 @@
-![logo](https://github.com/dumb-meh/dumb-meh/blob/main/assets/github_cover.png)
+![banner](https://github.com/dumb-meh/dumb-meh/blob/main/assets/github-cover.png)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dumb-meh&label=Profile%20views&color=0e75b6&style=flat" alt="dumb-meh" /> </p>
+
 <p align="center">
-  <a href="https://github.com/mahfuz33R">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Md+Mahfuzur+Rahman;Penetration+Tester;Red+Teamer;Ethical+Hacker;Cybersecurity+Researcher;Bug+Bounty+Hunter" alt="Typing SVG" align="center"/>
+  <a href="https://github.com/dumb-meh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Omar+Faruq+Shikdar;AI+Engineer;Data+Scientist;ML+Researcher;Computer+Vision+Enthusiast" alt="Typing SVG" align="center"/>
   </a>
 </p>
 
 <p align="center">
   <span style="font-size: 1.5em; color: #f5c518;">
-    <marquee behavior="scroll" direction="left">🔓 Penetration Tester | 🛡 Ethical Hacker | 💻 Cybersecurity Professional | 🎯 Python Automation Expert</marquee>
+    <marquee behavior="scroll" direction="left">🤖 AI Engineer | 🧠 Data Scientist | 🔬 ML Researcher | 👁️ Computer Vision | 🗣️ NLP</marquee>
   </span>
 </p>
 
 </br>
 
 <p style="font-family: 'monospace';">
-Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Security Analyst with a strong focus on offensive security, vulnerability management, and ethical hacking. I specialize in VAPT, secure code review, and risk-based assessments. I've secured banks and government systems, built automation tools in Bash and Python, and supported PCI DSS compliance. Actively sharpening skills via TryHackMe and Hack The Box, I stay updated with evolving cybersecurity threats and tools.
+Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intelligent systems that solve real-world problems. I specialize in developing AI-powered applications using FastAPI, RAG systems, and vector databases to create intelligent agents and chatbots. With multiple publications in computer vision and machine learning, I enjoy bridging the gap between academic research and practical applications. Currently, I'm focused on creating scalable microservices architecture for AI solutions while continuing to explore deep learning complexities.
 </p>
 
 ###
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz33R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz33R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://git-hub-streak-stats.vercel.app?user=mahfuz33R&theme=merko&mode=weekly" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dumb-meh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumb-meh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://git-hub-streak-stats.vercel.app?user=dumb-meh&theme=merko&mode=weekly" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="180" src="cyber.gif"  />
+<img align="right" height="180" src="https://github.com/dumb-meh/dumb-meh/blob/main/assets/ai-robot.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mahfuz33r/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-faruq-shikdar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://tryhackme.com/p/MAHFUZ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <a href="https://kaggle.com/omorfaru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
   </a>
-  <a href="https://www.youtube.com/@mahfuz33r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://mahfuz33r.github.io/" target="_blank">
+  <a href="https://omar-faruq-shikdar.framer.website/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
-  <a href="mailto:mahfuz33r@gmail.com" target="_blank">
+  <a href="https://researchgate.net/profile/omar-faruq-shikdar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="researchgate logo" />
+  </a>
+  <a href="mailto:omorfaruk549@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
   </a>
 </div>
@@ -96,32 +87,20 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfuz33R/mahfuz33R/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dumb-meh/dumb-meh/output/snake.svg" alt="Snake animation" />
   <br clear="both">
   <br>
   <br>
   <br>
   
 <div align="right">
-  <!-- <a href="https://www.linkedin.com/in/mahfuz33R">
-    <img src="https://avatars.githubusercontent.com/u/72136146?s=400&u=3eaa132c43ebe24c797e74687c7a54793bd25a81&v=4" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px; margin-top: 20px; border-radius: 50%;"/>
-  </a> -->
   <p id="random-quote" style="font-size: 18px; font-weight: bold; color: #00FF00; font-family: 'Courier New', monospace; margin-bottom: 20px;">
-    🔓 The only secure system is one thats powered off, encased in concrete, and guarded. | sed -e s///g -e s//\'/g
+    🧠 Intelligence is the ability to adapt to change. - Stephen Hawking
   </p>
 </div>
 
 <br>
 <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz33R&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumb-meh&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
 </div>
-
-###
-
-<!-- <div align="center">
-  <h4 align="center" style="font-family: serif;">Total Profile Visitors</h4>
-  <img src="https://profile-counter.glitch.me/mahfuz33R/count.svg?"  />
-</div> -->
-
-###
