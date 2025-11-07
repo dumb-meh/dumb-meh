@@ -1,6 +1,6 @@
-![logo](https://github.com/mahfuz33R/mahfuz33R/blob/main/assets/github_cover.png)
+![logo](https://github.com/dumb-meh/dumb-meh/blob/main/assets/github_cover.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfuz33r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz33r" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dumb-meh&label=Profile%20views&color=0e75b6&style=flat" alt="dumb-meh" /> </p>
 <p align="center">
   <a href="https://github.com/mahfuz33R">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Md+Mahfuzur+Rahman;Penetration+Tester;Red+Teamer;Ethical+Hacker;Cybersecurity+Researcher;Bug+Bounty+Hunter" alt="Typing SVG" align="center"/>
