@@ -29,13 +29,27 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
 </div>
 
 
+### 🏆 GitHub Achievements
 <div align="center">
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'/></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'/></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'/></a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><… src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'/></a>
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'/></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'/></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'/></a>
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'/></a>
 </div>
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Farhad0111&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad0111&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhad0111&show_icons=true&count_private=true&theme=radical)
+  
+  ![GitHub streak](https://streak-stats.demolab.com/?user=Farhad0111&theme=tokyonight)
+  
+</div>
+
 ###
 
 <img align="right" height="180" src="https://github.com/dumb-meh/dumb-meh/blob/main/assets/ai-robot.gif"  />
