@@ -40,13 +40,13 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Farhad0111&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dumb-meh&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad0111&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumb-meh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhad0111&show_icons=true&count_private=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dumb-meh&show_icons=true&count_private=true&theme=radical)
   
-  ![GitHub streak](https://streak-stats.demolab.com/?user=Farhad0111&theme=tokyonight)
+  ![GitHub streak](https://streak-stats.demolab.com/?user=dumb-meh&theme=tokyonight)
   
 </div>
 
