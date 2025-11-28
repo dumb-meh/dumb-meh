@@ -30,23 +30,16 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
 
 
 ### 🏆 GitHub Achievements
+
 <div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dumb-meh&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/></a>
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'/></a>
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'/></a>
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'/></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'/></a>
-</div>
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dumb-meh&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumb-meh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dumb-meh&show_icons=true&count_private=true&theme=radical)
-  
-  ![GitHub streak](https://streak-stats.demolab.com/?user=dumb-meh&theme=tokyonight)
   
 </div>
 
