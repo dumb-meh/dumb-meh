@@ -23,9 +23,7 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumb-meh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumb-meh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://git-hub-streak-stats.vercel.app?user=dumb-meh&theme=merko&mode=weekly" height="150" alt="stats graph"  />
+
 </div>
 
 
@@ -34,11 +32,10 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dumb-meh&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/></a>
-  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'/></a>
-  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'/></a>
-  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'/></a>
-  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=dumb-meh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumb-meh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://git-hub-streak-stats.vercel.app?user=dumb-meh&theme=merko&mode=weekly" height="150" alt="stats graph"  />
+
 
   
 </div>
