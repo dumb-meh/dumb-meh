@@ -34,7 +34,6 @@ Hello, I'm Omar Faruq Shikdar, an AI Engineer passionate about building intellig
   [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=dumb-meh&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
     <img src="https://github-readme-stats.vercel.app/api?username=dumb-meh&show_icons=true&theme=radical" height="150" alt="stats graph" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumb-meh&show_icons=true&theme=radical" height="150" alt="languages graph"  />
-   <img src="https://git-hub-streak-stats.vercel.app?user=dumb-meh&theme=merko&mode=weekly" height="150" alt="stats graph"  />
 
 
   
